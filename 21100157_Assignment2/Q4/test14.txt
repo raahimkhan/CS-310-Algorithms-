@@ -1,0 +1,5 @@
+n 3
+k 3
+d0 da1
+da1 da2
+da2 d0

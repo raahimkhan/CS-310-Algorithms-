@@ -1,0 +1,6 @@
+n 4
+k 3
+d0 d1
+da1 da1
+da2 da2
+d1 d2
